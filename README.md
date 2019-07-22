@@ -1,5 +1,10 @@
 # This repo contains the various identity related scenarios with Azure functions in DotNet
 
+## You can find 
+1. DotNet and Azure Functions examples at https://github.com/maliksahil/AzureFunctionsAADDotNet
+2. NodeJS and Azure Functions examples at https://github.com/maliksahil/AzureFunctionsAADNodeJS
+3. Python and Azure Functions examples at https://github.com/maliksahil/AzureFunctionsAADPython
+
 You will find two examples in this repo
 1. Function - which shows how to do bearer token validation using MSAL
 2. FunctionAttribute - same but gives you an AuthorizeAttribute, currently depends on some obsolete APIs.
