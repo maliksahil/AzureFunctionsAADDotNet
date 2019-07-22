@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{FA7E918B-DB68-4EA4-92C1-819B973FBA52}|Default">
+  <MonoDevelop.Ide.ItemProperties.DotNetAuthorizeFunction PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AuthorizeAttribute.cs">
+    <Files>
+      <File FileName="AuthorizeAttribute.cs" Line="24" Column="1" />
+      <File FileName="HttpTriggerCSharp.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DotNetAuthorizeFunction" expanded="True">
+            <Node name="DotNetAuthorizeFunction" expanded="True">
+              <Node name="AuthorizeAttribute.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
