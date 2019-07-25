@@ -1,4 +1,5 @@
 {
   "extensions":[
+    { "name": "Startup", "typeName":"DotNetAuthorizeFunction.Startup, DotNetAuthorizeFunction, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
   ]
 }
