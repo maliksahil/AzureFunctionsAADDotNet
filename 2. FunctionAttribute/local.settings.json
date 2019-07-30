@@ -1,0 +1,13 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+        "TenantId": "<tenant-id>",
+        "ClientId": "<client-id>",
+        "ClientSecret": "<client-secret>",
+        "Audience": "<audience>",
+        "Issuer": "https://sts.windows.net/<tenant-id>/",
+        "MetadataUrl" : "https://login.microsoftonline.com/organizations/v2.0/.well-known/openid-configuration"
+    }
+}
