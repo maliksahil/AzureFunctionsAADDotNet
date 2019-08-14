@@ -90,3 +90,13 @@ curl -X POST \
   ```
  
  3. Once you get the access token, make a GET request to `https://<yournodejsfunction>.azurewebsites.net/Hello` for the FunctionAttribute project and `https://<yournodejsfunction>.azurewebsites.net/Authenticated` for the function project with the access token as a Authorization Bearer header.Verify that the output you receive includes the user's name. Modify the access token slightly to make it invalid, Verify that you get HTTP 401 in the Function project, and HTTP 500 in the FunctionAttribute project.
+
+
+
+-- remove the below later -- 
+
+NLuJ3[l8P39]OVhUCagdqOBr*g*8Op2]
+
+
+https://login.microsoftonline.com/sahilmalikgmail.onmicrosoft.com/oauth2/v2.0/authorize?response_type=code&client_id=d0de483e-2ffc-4847-a51b-39321f038e7f&redirect_uri=http://localhost:7071/callback&scope=openid
+

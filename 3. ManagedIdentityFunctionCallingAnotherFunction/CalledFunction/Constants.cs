@@ -6,8 +6,8 @@ namespace Company.Function
     // demo code, usually want to pull these from key vault or config etc.
     internal static class Constants
     {
-        internal static string audience = "https://sahilmalikgmail.onmicrosoft.com/functionapp"; // Get this value from the expose an api, audience uri section example https://appname.tenantname.onmicrosoft.com
-        internal static string clientID = "d0de483e-2ffc-4847-a51b-39321f038e7f"; // this is the client id, a GUID
+        internal static string audience = "https://sahilcalledfunction.sahilmalikgmail.onmicrosoft.com"; // Get this value from the expose an api, audience uri section example https://appname.tenantname.onmicrosoft.com
+        internal static string clientID = "d397a3ab-266e-4743-8aac-9f2440d5f159"; // this is the client id, a GUID
         internal static string tenant = "sahilmalikgmail.onmicrosoft.com"; // this is your tenant name
         internal static string tenantid = "dd1790d8-0aaa-403b-8a1c-43e7cca9b589"; // this is your tenant id (GUID)
 
